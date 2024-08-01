@@ -18,7 +18,7 @@ I value **clean design**, **thoughtful interactions**, and **simple content stru
 ## 🚀 Explore
 Dive into my projects and explore my work at the following links:
 
-- **[Vercel Portfolio](https://divyanshu-patel-portfolio-jqql1r0fl-divyanshu-patels-projects.vercel.app/)**
+- **[Vercel Portfolio](https://divyanshu-patel-portfolio.vercel.app/)**
 - **[Netlify Portfolio](https://divyanshu-patel-portfolio.netlify.app/)**
 
 Let’s connect and collaborate on exciting web ventures!
