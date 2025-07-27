@@ -1,7 +1,7 @@
 # Welcome to My Portfolio! 👋
 
 
-Hey there! I’m **Divyanshu Patel**, an aspiring web developer and DSA enthusiast. Currently, I’m a second-year student at VIT Chennai with a passion for creating engaging web experiences.
+Hey there! I’m **Divyanshu Patel**, an aspiring web developer and DSA enthusiast. Currently, I’m a third-year student at VIT Chennai with a passion for creating engaging web experiences.
 
 ## 🌟 About Me
 I’m deeply interested in learning and honing my skills in **Data Structures and Algorithms (DSA)** and **Cybersecurity**. My journey into web development began with a desire to turn creative ideas into reality through code.
